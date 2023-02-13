@@ -49,7 +49,7 @@ SOURCES += disk.cpp\
 
 RESOURCES += gui_icons.qrc translations.qrc
 
-RC_FILE = DiskImager.rc
+# RC_FILE = DiskImager.rc
 
 LANGUAGES  = es\
              it\
